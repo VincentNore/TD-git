@@ -1,0 +1,18 @@
+NORE Vincent
+
+						TD5 GIT
+
+Exercice n°1 : 
+
+	Que permet de faire la commande "git init" ?
+		1 - Envoyer les fichiers sur le dépôt distant.
+		2 - Voir les modifications
+		3 - Initialiser le dépôt git
+		4 - Initialiser le dépôt git distant
+
+Exercice n°2 : 
+
+	1- git init
+	2- git status
+	4- git add README
+	5- git commit 
