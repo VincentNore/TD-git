@@ -21,4 +21,5 @@ Exercice n°2 :
 	14- git rm exemple.txt
 	    git reset HEAD exemple.txt
 	15- git reset 69815edf7ce27851f2ee039a7070629c9e51a397
-	16-
+	16- git branch Version_bis
+	17- git branch
