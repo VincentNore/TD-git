@@ -16,3 +16,6 @@ Exercice n°2 :
 	2- git status
 	4- git add README
 	5- git commit 
+	9- git clone "url_du_dépot_distant"
+	   git push
+	
